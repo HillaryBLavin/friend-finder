@@ -1,0 +1,23 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Facebook sucks. Try this instead.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HillaryBLavin/friend-finder.git"
+  },
+  "author": "Hillary B. Lavin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HillaryBLavin/friend-finder/issues"
+  },
+  "homepage": "https://github.com/HillaryBLavin/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
